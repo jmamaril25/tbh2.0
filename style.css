@@ -113,3 +113,16 @@ textarea.materialize-textarea{
 .contact {
 	margin-bottom: 50px;
 }
+
+
+/* 404 ERROR PAGE */
+.center {
+	text-align: center;
+}
+.page-error {
+	height: 100%;
+	overflow: hidden;
+}
+#not-found {
+	margin-bottom: 5%;
+}
