@@ -25,6 +25,14 @@ p {
 	text-transform: none;
 	padding: .375rem 1.75rem
 }
+.upload {
+	margin-top: 0;
+	padding-top: 0;
+	background-color: #258ea6;
+}
+.upload:hover {
+	background-color: #F7AD62;
+}
 .btn-primary {
 	background-color: #6BAB90;
 	border: none;
@@ -90,7 +98,7 @@ select {
 	margin-bottom: 30px;
 }
 textarea.materialize-textarea{
-	height: 18rem;
+	height: 8rem;
 	margin-bottom: 0;
 }
 .profile {
